@@ -1,2 +1,2 @@
-# Project dreams-auto
+# Golang admin panel
 
